@@ -5,59 +5,98 @@
       "id": "shipping",
       "description": "Get one step ahead of your competition and reaching your customers with the strength of our global network. That's more than 400,000 people working across 220 countries or territories with one goal: making your shipping process work to your logistical and competitive advantage.\nWhether you're an entrepreneur or enterprise, our tools and technologies will help you create efficiencies, centralize control, cut costs, and increase productivity. And with more flexibility and better insight, you'll have peace of mind that you're shipping the best way for your business.",
       "img": "https://picsum.photos/150",
-      "plans": [1, 2, 3, 4]
+      "plans": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "name": "Tracking Service",
       "id": "tracking",
       "description": "Whether it's 10 violins for a local music shop or 10,000 vaccines for an overseas clinic, there's a lot riding on your ability to deliver and track a package. But the information that you need about status to manage these two shipments is completely different. That's why we've developed a range of tracking tools that deliver precisely the information you need, where and when you need it. So you can re-route those violins to arrive at school for the first day of class. Or estimate delivery of that life-saving medicine so the clinic can schedule staff.",
       "img": "https://picsum.photos/150",
-      "plans": [5, 6, 7]
+      "plans": [
+        5,
+        6,
+        7
+      ]
     },
     {
       "name": "Payments Service",
       "id": "payment",
       "description": "When company needs to manage invoices and keep track of cost data, but doesn't have the time or resources to implement an enterprise-wide solution right away, our billing tools can help. Our fast and easy-to-use options integrate smoothly with your systems, simplify your processes and reduce paperwork.",
       "img": "https://picsum.photos/150",
-      "plans": [8, 9]
+      "plans": [
+        8,
+        9
+      ]
     }
   ],
   "plans": [
     {
       "id": 1,
-      "name": "Low Value Occasional Shipping"
+      "name": "Low Value Occasional Shipping",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": false,
+      "recurring_span": ""
     },
     {
       "id": 2,
-      "name": "Volume Shipping"
+      "name": "Volume Shipping",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": true,
+      "recurring_span": "monthly"
     },
     {
       "id": 3,
-      "name": "Marketplace Shipping"
+      "name": "Marketplace Shipping",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": true,
+      "recurring_span": "monthly"
     },
     {
       "id": 4,
-      "name": "Freight and multi-carrier shipping"
+      "name": "Freight and multi-carrier shipping",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": false,
+      "recurring_span": ""
     },
     {
       "id": 5,
-      "name": "Low Volume occasional tracking"
+      "name": "Low Volume occasional tracking",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": true,
+      "recurring_span": "monthly"
     },
     {
       "id": 6,
-      "name": "Tracking on the go"
+      "name": "Tracking on the go",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": true,
+      "recurring_span": "monthly"
     },
     {
       "id": 7,
-      "name": "Quantum view signature tracking"
+      "name": "Quantum view signature tracking",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": true,
+      "recurring_span": "monthly"
     },
     {
       "id": 8,
-      "name": "Payment of shipping"
+      "name": "Payment of shipping",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": false,
+      "recurring_span": ""
     },
     {
       "id": 9,
-      "name": "PDF Invoice Generation"
+      "name": "PDF Invoice Generation",
+      "description": "Lorem ipsum dolor amet hashtag scenester bitters williamsburg. Glossier retro blue bottle, ugh tumeric tacos sriracha vexillologist pug iceland butcher tattooed master cleanse actually.",
+      "recurring_payment": true,
+      "recurring_span": "monthly"
     }
   ]
 }
