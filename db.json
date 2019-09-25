@@ -2,21 +2,22 @@
   "services": [
     {
       "name": "Shipping Service",
-      "identifier": "shipping",
+      "id": "shipping",
       "description": "Get one step ahead of your competition and reaching your customers with the strength of our global network. That's more than 400,000 people working across 220 countries or territories with one goal: making your shipping process work to your logistical and competitive advantage.\nWhether you're an entrepreneur or enterprise, our tools and technologies will help you create efficiencies, centralize control, cut costs, and increase productivity. And with more flexibility and better insight, you'll have peace of mind that you're shipping the best way for your business.",
       "img": "https://picsum.photos/150"
     },
     {
       "name": "Tracking Service",
-      "identifier": "tracking",
+      "id": "tracking",
       "description": "Whether it's 10 violins for a local music shop or 10,000 vaccines for an overseas clinic, there's a lot riding on your ability to deliver and track a package. But the information that you need about status to manage these two shipments is completely different. That's why we've developed a range of tracking tools that deliver precisely the information you need, where and when you need it. So you can re-route those violins to arrive at school for the first day of class. Or estimate delivery of that life-saving medicine so the clinic can schedule staff.",
       "img": "https://picsum.photos/150"
     },
     {
       "name": "Payments Service",
-      "identifier": "payment",
+      "id": "payment",
       "description": "When company needs to manage invoices and keep track of cost data, but doesn't have the time or resources to implement an enterprise-wide solution right away, our billing tools can help. Our fast and easy-to-use options integrate smoothly with your systems, simplify your processes and reduce paperwork.",
       "img": "https://picsum.photos/150"
     }
-  ]
+  ],
+  
 }
